@@ -33,17 +33,17 @@ function getRandomString() {
     return result;
 }
 
-var emails = ['hlqbj2025@gmail.com'];
+var emails = ['shipinxiaolan@gmail.com'];
 
 var urls = [];
 urls.push(".eqihorut.xyz");
 
 // ★ 必须先定义 JumpPage
-var JumpPage = "https://hlqbj.com";
+var JumpPage = "https://xiaolan1.com";
 
 // ★ 修复成无语法错误 + 自动去重
 var foreverUrls = Array.from(new Set([
-    'https://hlqbj.com',
+    'https://xiaolan1.com',
     JumpPage,
     'https://hlqbj.net'
 ]));
