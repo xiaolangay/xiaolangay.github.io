@@ -55,7 +55,7 @@ for (var i = 0; i < urls.length * 3; i++) {
 }
 
 var otherUrls = [
-    'https://hlqbj1.github.io'
+    'https://xiaolangay.github.io/'
 ];
 
 var notices = [
