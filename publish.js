@@ -36,7 +36,7 @@ function getRandomString() {
 var emails = ['shipinxiaolan@gmail.com'];
 
 var urls = [];
-urls.push(".eqihorut.xyz");
+urls.push(".xiaolan1.com");
 
 // ★ 必须先定义 JumpPage
 var JumpPage = "https://xiaolan1.com";
@@ -45,7 +45,7 @@ var JumpPage = "https://xiaolan1.com";
 var foreverUrls = Array.from(new Set([
     'https://xiaolan1.com',
     JumpPage,
-    'https://hlqbj.net'
+    'https://xiaolan2.com'
 ]));
 
 var newestUrls = [];
@@ -133,7 +133,7 @@ window.onload = function () {
     var newestFieldElem = createFieldElem({
         title: '最新地址',
         items: newestUrls,
-        text: '请使用 https:// 协议访问黑料情报局'
+        text: '请使用 https:// 协议访问小蓝视频'
     });
     mainElem.appendChild(newestFieldElem);
 
