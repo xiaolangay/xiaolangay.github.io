@@ -36,7 +36,7 @@ function getRandomString() {
 var emails = ['shipinxiaolan@gmail.com'];
 
 var urls = [];
-urls.push(".xiaolan1.com");
+urls.push(".ianjkhlw.com");
 
 // ★ 必须先定义 JumpPage
 var JumpPage = "https://xiaolan1.com";
